@@ -1,0 +1,2 @@
+# Vue_Node_enterprise_System
+基于Vue Element和Node.js开发的企业后台管理系统，来源于慕课网上面的课程，应该是目前为止做的最复杂的一个项目了
